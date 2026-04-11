@@ -1,4 +1,5 @@
 # Block
+https://ka-rui.github.io/Block/
 A productivity management website that executes all distraction
 
 The new world is full of distraction and block is there to "block" it. Haha.
